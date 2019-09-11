@@ -20,7 +20,11 @@ Math kind of as well.
 
 I dont understand contemporary art. 
 
-Yet I like art. And photography.
+Yet I like other art. But not Marina Abramovics performance or similar. 
+
+Have a history crush on Leonardo da Vinci and Tesla. 
+
+And I like photography.
 
 Have 1500 photos on insta. Few selfies. Rest is pics of dogs, cats, food, statues, wine and cities I visited.
 

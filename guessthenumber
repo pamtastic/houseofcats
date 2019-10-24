@@ -1,0 +1,15 @@
+secret = 69
+guess = int(input("Please insert a number and try to guess my lucky number:"))
+
+while True:
+
+    if secret != guess:
+        print("Sorry, you missed it!")
+        guess = int(input("Try again: "))
+
+    else:
+
+        print("Congrats, you won!")
+        break
+
+print("That was FUN!! Wanna play again?")

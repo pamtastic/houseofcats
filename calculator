@@ -1,0 +1,26 @@
+first_num=input("Enter number one:")
+second_num=input("Enter number two:")
+
+operation=input("What do you want me to do with these numbers? Please enter mathematical operation +, -, * or / so that I can calculate")
+
+if operation=="+":
+    print(int(first_num) + int(second_num))
+
+elif operation=="-":
+    print(int(first_num) - int(second_num))
+
+elif operation== "*":
+    print(int(first_num) * int(second_num))
+
+elif operation=="/":
+    print(int(first_num) / int(second_num))
+
+else:
+    print("You have not entered any of the given mathematical operations")
+
+
+
+
+
+
+
